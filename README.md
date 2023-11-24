@@ -1,2 +1,6 @@
 # Exploration-of-phenol-derivative-on-QUBO-solvers
-The weight factor data and the code for exploration of phenol derivatives
+Code for the paper 
+"Efficient exploration of phenol derivatives using QUBO solvers with group contribution-based approaches"
+# Notes
+* The weight factor data for the experiment is included in this project.
+* The code for applying Gurobi optimizer and digital annealing in this problem is provided.
